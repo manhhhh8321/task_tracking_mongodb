@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "outDir": "dist",
+      "rootDir": "./src",
+      "strict": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "strictPropertyInitialization": false,
+      "resolveJsonModule":true,
+      "lib": [
+        "es5", "es6", "dom", "dom.iterable"
+      ],
+      "watch": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+  },
+
+  
+}
